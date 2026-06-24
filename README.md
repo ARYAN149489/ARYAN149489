@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd year computer science engineering student at Thapar Institute of Engineering and Technology, Patiala<br>I am currently learning Socket.io and focusing on advanced DSA <br>My major is Web Development<br>My Hobby is playing badminton and mind sharpening games
+I am a 3rd year computer science engineering student at Thapar Institute of Engineering and Technology, Patiala<br>I am currently learning Java and focusing on advanced DSA <br>My major is Full Stack Web Development<br>My Hobby is playing badminton and solving aptitude questions
 
 
 ## 🌐 Socials:
