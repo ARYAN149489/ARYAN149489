@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 3rd year computer science engineering student at Thapar Institute of Engineering and Technology, Patiala<br>I am currently learning Java and focusing on advanced DSA <br>My major is Full Stack Web Development<br>My Hobby is playing badminton and solving aptitude questions
+I am a Final year computer science engineering student at Thapar Institute of Engineering and Technology, Patiala<br>I am currently working on a Java Project and focusing on advanced DSA <br>My major is Full Stack Web Development<br>My Hobby is playing badminton and solving aptitude questions
 
 
 ## 🌐 Socials:
